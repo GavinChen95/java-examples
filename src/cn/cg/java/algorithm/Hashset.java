@@ -1,6 +1,5 @@
-package cn.cg.java.practice;
+package cn.cg.java.algorithm;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 

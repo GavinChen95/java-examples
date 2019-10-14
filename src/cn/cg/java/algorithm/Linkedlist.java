@@ -1,4 +1,4 @@
-package cn.cg.java.practice;
+package cn.cg.java.algorithm;
 
 import java.util.Collection;
 import java.util.Iterator;

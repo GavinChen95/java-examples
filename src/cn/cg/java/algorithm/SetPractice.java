@@ -1,4 +1,4 @@
-package cn.cg.java.practice;
+package cn.cg.java.algorithm;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;
@@ -10,13 +10,6 @@ import java.util.Set;
  * @Package: cn.cg.java.practice
  * @date: 2019/10/13 9:40
  */
-
-import java.util.Iterator;
-
-import java.util.LinkedHashSet;
-
-import java.util.Set;
-
 
 
 public class SetPractice {

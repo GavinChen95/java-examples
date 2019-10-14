@@ -1,4 +1,4 @@
-package cn.cg.java.practice;
+package cn.cg.java.algorithm;
 
 import javax.swing.text.html.HTMLDocument;
 import java.lang.reflect.Array;

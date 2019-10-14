@@ -1,4 +1,4 @@
-package cn.cg.java.algorithm;
+package cn.cg.java.practice;
 
 import java.util.*;
 

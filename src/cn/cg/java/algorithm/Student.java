@@ -1,7 +1,5 @@
-package cn.cg.java.practice;
+package cn.cg.java.algorithm;
 
-import java.math.BigDecimal;
-import java.util.Comparator;
 import java.util.Objects;
 
 /**
