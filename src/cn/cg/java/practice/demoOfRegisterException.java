@@ -40,7 +40,6 @@ public class demoOfRegisterException {
                 throw new RegisterException("抱歉，注册失败！用户名" + name + "已经被注册过了！");
             }
         }
-
         return true;
     }
 }
