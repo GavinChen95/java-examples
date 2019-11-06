@@ -1,9 +1,5 @@
 package cn.cg.java.practice.ConcurrentThread;
 
-import cn.cg.java.practice.ConcurrentThread.Consumer;
-import cn.cg.java.practice.ConcurrentThread.Goods;
-import cn.cg.java.practice.Producer;
-
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
