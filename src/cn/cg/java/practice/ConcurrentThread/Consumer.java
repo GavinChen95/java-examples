@@ -2,7 +2,7 @@ package cn.cg.java.practice.ConcurrentThread;
 
 /**
  * @author: Gavin
- * @title:
+ * @title: 消费者线程任务
  * @Package: cn.cg.java.practice
  * @date: 2019/11/4 9:30
  */
