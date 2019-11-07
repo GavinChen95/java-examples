@@ -1,4 +1,4 @@
-package cn.cg.java;
+package cn.cg.java.practice.ConcurrentThread;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

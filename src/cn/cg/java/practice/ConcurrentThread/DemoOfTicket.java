@@ -1,4 +1,4 @@
-package cn.cg.java;
+package cn.cg.java.practice.ConcurrentThread;
 
 /**
  * @author: Gavin
