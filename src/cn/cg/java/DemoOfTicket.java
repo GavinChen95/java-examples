@@ -2,11 +2,11 @@ package cn.cg.java;
 
 /**
  * @author: Gavin
- * @title: just for my test
+ * @title: 买票线程测试
  * @Package: cn.cg.java
  * @date: 2019/9/22 10:00
  */
-public class Test {
+public class DemoOfTicket {
     public static void main(String[] args) {
         Ticket ticket = new Ticket();
         Thread t1 = new Thread(ticket,"甲");
